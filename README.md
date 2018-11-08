@@ -1,1 +1,1 @@
-[My better motherfucking website] (https://stephyie.github.io)
+[My better motherfucking website](https://stephyie.github.io)
